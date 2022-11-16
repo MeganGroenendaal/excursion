@@ -23,11 +23,17 @@ h2{
 	font-weight: 300;
 }
  p{
-	font-size : 21px;	
-	font-family: verdana;
+	font-size :21px;	
+	font-family:verdana;
 	color : grey;
 }
 
 a{
 	text-decoration-line : underline;
+}
+
+#copy{
+	font-size : 21px;	
+	text-align : right;
+	color : grey;
 }
